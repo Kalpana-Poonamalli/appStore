@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.card-container {
+  text-align: center;
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 16px;
+  padding: 36px;
+  margin: 10px;
+}
+.img {
+  width: 100px;
+}
+.card-heading {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 300;
+}
+.active-button {
+  color: #2563eb;
+}

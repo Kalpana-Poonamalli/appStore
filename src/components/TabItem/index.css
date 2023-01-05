@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.buttons-list {
+  list-style-type: none;
+  padding-top: 20px;
+}
+.button {
+  color: #7b8794;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 12px;
+  padding: 5px;
+  background-color: transparent;
+  text-decoration: underline;
+}
